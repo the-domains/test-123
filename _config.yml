@@ -1,0 +1,14 @@
+layout_spectrum: 0.375662139384076
+typography_spectrum: 0.2532012874726206
+color:
+  brandStrength: 0.1025961332488805
+  lightness: 0.6743085226044059
+  saturation: 0.6779162287712097
+  rhythmicContrast: 0.7625680444762111
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+name: test 123
